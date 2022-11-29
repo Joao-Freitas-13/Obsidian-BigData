@@ -1,0 +1,1 @@
+- A existência de mais dados de um tipo que dos demais pode desbalancear o modelo, causando uma perda de perfórmance no modelo.
