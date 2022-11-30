@@ -1,0 +1,1 @@
+A depender do algorítimo e do dado, o dado pode precisar transformado para que possa ser utilizado, como  transformação de valores qualitativos em quantitativos. 

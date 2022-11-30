@@ -5,3 +5,5 @@ Atributos:
 - heterogênio
 - Contextualizado
 - Valioso
+
+[[Dados Sintéticos]]
