@@ -1,0 +1,1 @@
+Quando a aprendizagem contínua do algoritmo resulta na diminuição da generalização do problema que ele resolve, apesar de entregar melhores valores nos valores de teste.
