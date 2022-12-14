@@ -9,7 +9,7 @@ Exemplos:
 - [[Valores Nulos]]
 - [[Presença de Ruídos]]
 - [[Balanceamento de dados]]
-- [[Remoção de valores duplicados]]
+- [[Valores duplicados]]
 - [[Amostragem dos dados]]
 - [[Redução da dimensionalidade]]
 - [[Transformação de dados]]
