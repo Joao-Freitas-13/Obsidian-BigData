@@ -1,0 +1,1 @@
+[[grafico de pizza]] com o meio vazado.
