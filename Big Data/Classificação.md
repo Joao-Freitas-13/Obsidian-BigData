@@ -1,0 +1,6 @@
+- Determinar se uma determinada coisa é de uma determinada categoria
+	 - O algoritmo visa identificar quais são as características padrão que diferencia um grupo do outro
+	 - Um modelo com muitas classes, provavelmente terá classes que nunca serão acertadas, caso os dados de treinamento não estejam balanceados. 
+		 - Um método de evitar isso é fazer diversos modelos em cascata, em que os níveis mais baixos não recebem os que são identificados nos níveis superiores. Isso pode gerar um acúmulo de erro caso os níveis mais altes errem
+		 - Outro modelo é agrupar essas classes não identificadas em "outros"
+	 - É muito importante lembrar que para o modelo, a base de treinamento é o universo, logo caso a base de treinamento tenham dados que se relacionem mas que não traduzem a realidade, esse relacionamento indevido será transmitido ao modelo.

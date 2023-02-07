@@ -16,4 +16,4 @@ Exemplos:
 - [[Padronização dos dados]]
 - [[Eliminação de dados Inúteis]]
 
-[[Amostragem dos dados]] ,[[Redução da dimensionalidade]] e [[Balanceamento de dados]] são muito relevantes quando estamos trabalhando com algoritimos com [[Aprendizagem de Máquina]], a depender do algorítmo utilizado. 
+[[Amostragem dos dados]] ,[[Redução da dimensionalidade]] e [[Balanceamento de dados]] são muito relevantes quando estamos trabalhando com algoritimos com [[Machine Learning]], a depender do algorítmo utilizado. 

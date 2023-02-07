@@ -1,2 +1,5 @@
 - [[Valores Nulos]]
 - [[Balanceamento de dados]]
+- [[Técnicas de preprocessamento agressivas]]
+- [[Transforamção de dados numéricos em Categóricos]]
+- 
