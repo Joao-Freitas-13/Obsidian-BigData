@@ -1,16 +1,34 @@
 
 
-## [[Classificação]]
+# Tipos
 
-## [[Regressão]]
+### [[Classificação]]
 
-### [[Agrupamento]]
+### [[Regressão]]
 
-### [[Descrição de classes & conceitos]]
+#### [[Agrupamento]]
 
-### [[Associação]]
+#### [[Descrição de classes & conceitos]]
 
-### [[Predição]]
+#### [[Associação]]
+
+#### [[Predição]]
+
+# Técnicas
+
+#### Identificação de variáveis
+- Preditores vs. Objetivo (target)
+
+### Análise de variáveis  
+
+- [[Análise univariada]]
+
+- [[Análise Bivariada]]
+
+- Análise Multivariada
+
+### [[Tratamento de dados faltantes]]
+
 
 
 
