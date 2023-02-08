@@ -1,1 +1,1 @@
-Valores nulos normalmente não podem ser imputados dentro dos sistemas, já que pode quebrar o modelo matemático. Ele precisa ser deletado, resultando em um menor número de dados, ou populados, utilizando [[técnicas de população de valores nulos]].
+Valores nulos normalmente não podem ser imputados dentro dos sistemas, já que pode quebrar o modelo matemático. Ele precisa ser deletado, resultando em um menor número de dados, ou populados, utilizando [[Tratamento de dados faltantes]].

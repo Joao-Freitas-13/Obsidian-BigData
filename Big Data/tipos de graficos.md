@@ -4,7 +4,7 @@
 - [[grafico de area]]
 - [[grafico de vela]]
 - [[grafico de bolhas]]
-- [[grafico de barras]]
+- [[Gráfico de barras]]
 - [[grafico geografico]]
 - [[grafico de pizza]]
 
