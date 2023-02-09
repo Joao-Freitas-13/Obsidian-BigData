@@ -1,0 +1,10 @@
+- Random Under Sampler (ruim)
+	- Remove dados aleatóriamente
+- One Sided Slection
+	- Visa manter principalmente os dados que estão relacionados com a zona de decisão, removendo dados das áreas em que só possui um tipo de dado.
+	- Vantagens: 
+		- Reduz custo de armazenamento
+		- Redução do efeito de víes indutivo
+	- Desvantagens:
+		- Perda de informação
+		- Os dados da amostragem podem se distanciar da distribuição real da população

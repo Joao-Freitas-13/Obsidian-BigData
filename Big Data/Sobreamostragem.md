@@ -1,0 +1,12 @@
+- SMOTE:
+	- Aumenta uma classe a partir da conecção entre os pontos próximos dessa classe
+	- ![[Pasted image 20230208210152.png]]
+- ADASYN
+	- Ao invés de interpolar os pontos em todas as áreas, irá interpolar apenas na zona de confusão
+	- ![[Pasted image 20230208210227.png]]
+- Vantagem: 
+	- Redução dos efeitos da maior parte dos problemas afeitos ao desbalanceamento: 
+		- Viés indutivo, amostras reduzidas e Pequenos disjuntos
+- Desvantagem:
+	- Os dados obtidos não são reais e não trazem novidade sobre o comportamento real da classe;
+	- Aumento do custo de armazenamento e processamento;
