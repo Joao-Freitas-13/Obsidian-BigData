@@ -1,0 +1,14 @@
+- Mudança de escala: 
+	- Atributos com escalas diferentes podem afetar o processo de aprendizado, como por exemplo a distância euclidiana. Nestes casos podemos usar [[normalização]]
+	- normalização
+- Utilidade:
+	- Muitas vezes valores próximos de um atributo possuem o mesmo valor semântico para o problema em análise. 
+	- Ex.: Dados de idade são geralmente mais úteis quando distribuídos entre faixas (binning de dados).
+- Exigência do algoritmo de mineração
+	- Transformação de simbólico para numérico
+		- Conversão para binário (duas categorias); 
+		- Conversão para inteiro (categóricos ordinais); 
+		- One hot encoding (categóricos não ordinais).
+	- Transformação de numérico para simbólico
+		- Associar rótulos para cada valor;
+		- Discretização: média, quantiles, binning..

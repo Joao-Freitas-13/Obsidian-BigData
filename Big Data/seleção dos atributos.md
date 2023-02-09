@@ -1,0 +1,1 @@
+- Visa reduzir a dimensionalidade para simplificar os dados

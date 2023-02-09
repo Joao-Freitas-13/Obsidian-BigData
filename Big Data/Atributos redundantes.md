@@ -1,0 +1,1 @@
+Não trazem novas informações

@@ -1,0 +1,6 @@
+- Pequenos Disjuntos
+	- Pequenos gurpos disperços possuem menos chance de ser bem representados do que uma classe concentrada em uma posição única
+	- ![[Pasted image 20230208201811.png]]
+- Sobreposição de classes:
+	- ![[Pasted image 20230208202040.png]]
+	- Pode ser tratado com a [[seleção de atributos]] que mais distanciam ambas as categorias, podendo ter melhores resultados do que a reamostragem

@@ -30,8 +30,16 @@
 ### [[Tratamento de dados faltantes]]
 
 
+### [[Tratamento de outliers]]
 
 
+### [[Transformação de atributos]]
 
+
+### [[Derivação de atributos]]
+
+### [[Reamostragem]]
+
+### [[Redução de dimensionalidade]]
 
 
