@@ -1,0 +1,1 @@
+Um modelo que uma pequena variação de dados gera grandes diferenças no modelo.
