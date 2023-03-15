@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "0bbc00a04dbf82d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "721d49a3a15ebf69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a1d389c2ffddeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e93044baeaa77cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7a45015dd7a1bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e93481117e2643b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f1b5b91cb1c478a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dccd5e08bdefeff2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1eab997807b2626",
+    "type": "split",
+    "children": [
+      {
+        "id": "980429999efdcd4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4a029966d908524",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a069d376c554912",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Natural Language Processing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e0818b810df64ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e12f4093c494a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Natural Language Processing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7a1d389c2ffddeb",
+  "lastOpenFiles": [
+    "Cross-Validation.md",
+    "Natural Language Processing.md",
+    "Stop words.md",
+    "KDD - Knowledge  Discovery From Data.md",
+    "Pyhton Notebook - Natural Language.md"
+  ]
+}
