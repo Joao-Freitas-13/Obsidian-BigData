@@ -1,1 +1,0 @@
-Não trazem novas informações

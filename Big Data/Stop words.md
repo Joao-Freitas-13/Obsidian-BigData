@@ -1,1 +1,0 @@
-Palavras de uma lingua que não tem valor semântico, como conectivos e preposições

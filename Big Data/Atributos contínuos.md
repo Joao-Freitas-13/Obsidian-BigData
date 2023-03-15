@@ -1,6 +1,0 @@
-- Média,mediana,máximo,mínimo...
-	- Contagem: Informa se há dados ausentes
-		- Desvio padrão:  é o que informa a confiabilidade da média
-		- O mínimo e o máximo informam a qualidade dos dados
-		- Quartis: Se o quartil 1 está muito próximo do mínimo, significa que provavelmente temos outliers a esquerda. 
-- [[Histograma]]

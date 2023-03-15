@@ -1,1 +1,0 @@
-Sepração das variáveis contínuas num mesmo gráfico ([[histograma]], por exemplo)

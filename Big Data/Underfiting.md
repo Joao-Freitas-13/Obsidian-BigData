@@ -1,1 +1,0 @@
-Quando o modelo é tão genérico que ele não consegue prever nada

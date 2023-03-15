@@ -1,1 +1,0 @@
-Interessante para representação de informações qualitativas, muito utilizado.

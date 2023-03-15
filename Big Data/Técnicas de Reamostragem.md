@@ -1,3 +1,0 @@
-- [[Subamostragem]] (diminuir)
-
-- [[Sobreamostragem]] (aumentar)

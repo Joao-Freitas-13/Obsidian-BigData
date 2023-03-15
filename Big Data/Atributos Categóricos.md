@@ -1,2 +1,0 @@
-- Contagem e percentual.
-- [[Gráfico de barras]]

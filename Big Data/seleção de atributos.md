@@ -1,1 +1,0 @@
-[[Redução de dimensionalidade]]

@@ -1,6 +1,0 @@
-- Vantage: é a estratérgia mais robusta para lidar com dados ausentes
-- Desvantagens: 
-	- Valores estimados do modelo são geralmente melhor comportados que os valores reais
-	- Os Atributos do conjunto de dados pode não ter correlação com o atributo ausente
-	- Custo: precisa gerar um modelo para cada atributo com valores ausentes.
-- Ex.: Estimação com KNN (automatiza o processo de [[Estimação com instâncias similares]])

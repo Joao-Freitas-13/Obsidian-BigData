@@ -1,1 +1,0 @@
-- Calcular a métrica que será usada para substituição com base em outros atributos, como sexo, idade, etc, selecionando uma faixa das variáveis que serão utilizadas como base

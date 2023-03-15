@@ -1,1 +1,0 @@
-Caso ocorra uma falha, o processamento já realizado não é perdido inteiramente.

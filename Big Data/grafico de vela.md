@@ -1,1 +1,0 @@
-bem comum para representação de ações, em que cada linha no eixo y possui um boxplot.
